@@ -1,6 +1,10 @@
 {
   "lazy.nvim": { "branch": "main", "commit": "aedcd79811d491b60d0a6577a9c1701063c2a609" },
   "nvim-tree.lua": { "branch": "master", "commit": "d35a8d5ec6358ada4b058431b367b32360737466" },
+  "nvim-treesitter": { "branch": "master", "commit": "fad40f2010c6f50aaad285b2752551a37d8772e4" },
+  "nvim-treesitter-textobjects": { "branch": "master", "commit": "7f00d94543f1fd37cab2afa2e9a6cd54e1c6b9ef" },
   "nvim-web-devicons": { "branch": "master", "commit": "14ac5887110b06b89a96881d534230dac3ed134d" },
-  "one-nvim": { "branch": "main", "commit": "faf6fb3f98fccbe009c3466f657a8fff84a5f956" }
+  "one-nvim": { "branch": "main", "commit": "faf6fb3f98fccbe009c3466f657a8fff84a5f956" },
+  "vim-be-good": { "branch": "master", "commit": "4fa57b7957715c91326fcead58c1fa898b9b3625" },
+  "vim-tmux-navigator": { "branch": "master", "commit": "38b1d0402c4600543281dc85b3f51884205674b6" }
 }
