@@ -11,7 +11,7 @@ if not vim.loop.fs_stat(lazypath) then
 end
 vim.opt.rtp:prepend(lazypath)
 
-require("lazy").setup("maxell.plugins", {
+require("lazy").setup({{import = "maxell.plugins"}, {import = "maxell.plugins.lsp"}}, {
     checker = {
         enabled = true,
         notify = false,
